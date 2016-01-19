@@ -1,0 +1,5 @@
+We collected motion sensor data by using wearable devices. There are totally 20 subjects consisting of 10 male and 10 female subjects.
+In total, we obtained 300 right hand samples and 300 left hand samples from the 20 subjects. For each subject, we have 15 samples of 
+walking data sensed by the MSBand on the right hand and another 15 samples from the MSBand on the left hand of the subject.
+Every data sample consists of two files: one is the 3 dimensional acceleration data and the other is the 3-dimenional angular velocity 
+data.
